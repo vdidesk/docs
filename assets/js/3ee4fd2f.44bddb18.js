@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{90:function(a){a.exports=JSON.parse('{"pluginId":"mfa","version":"current","label":"Next","isLast":true,"docsSidebars":{"MFA":[{"type":"link","label":"MFA Provided by Accops","href":"/mfa/accops/mfa-accops"}]},"permalinkToSidebar":{"/mfa/accops/mfa-accops":"MFA"}}')}}]);
